@@ -24,7 +24,7 @@ The model analyzes chemical and physical properties of water and classifies its 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/friend-username/drinkable-water-prediction.git
+git clone https://github.com/Keer0423/drinkable-water-prediction.git
 cd drinkable-water-prediction
 
 # 2. Install Python dependencies
